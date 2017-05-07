@@ -1,0 +1,19 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "caozhihui",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "he": "^1.1.1",
+    "iconv-lite": "^0.4.17",
+    "mongoose": "^4.9.7",
+    "request": "^2.81.0"
+  }
+}
